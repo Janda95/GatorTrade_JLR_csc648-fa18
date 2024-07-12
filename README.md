@@ -1,3 +1,17 @@
+# Archived Project Notice
+
+**⚠️ This project is archived and no longer maintained.**
+
+### Reason for Archiving
+This project has been archived because of outdated security dependencies and will not be updated for the forseeable future.
+
+### Date of Archiving
+The project was archived on 7/12/2024.
+
+### Future Contributions
+This repository is now in read-only mode. No further contributions, issues, or pull requests will be accepted.
+
+
 # csc648-fa18-Team04
 
 GatorTrade is a web application built during San Francisco State University's Fall 2018 semester for CSC648 (Software Engineering). The purpose of the course is for a team of 5-7 students to work collaboratively and create a Buy/Sell/Trade-style website for SFSU students. GatorTrade was built with Node.js, Express.js, Bootstrap, PostgreSQL, and is hosted on a free Heroku server. Images are stored and hosted using Cloudinary, a free addon, easily provided by Heroku.
